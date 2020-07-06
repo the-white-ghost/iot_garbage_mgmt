@@ -6,7 +6,7 @@
 #include <WiFi101.h>
 #include <BlynkSimpleMKR1000.h>
 
-String loc = "12.9854628,80.6578416"
+String loc = "12.985462,80.6578416"
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
