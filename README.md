@@ -12,4 +12,4 @@ Contains:
 
 
 Arduino code and the python notebook are not linked yet....
-....have to find a good way to do that. ¯\_(ツ)_/¯
+....have to find a good way to do that. ¯\\_(ツ)_/¯
